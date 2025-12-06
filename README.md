@@ -40,37 +40,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=f4kesmile&theme=gitdimmed&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
   </a>
 </div>
-
----
-
-<div align="center">
-
-  <!-- ⚔️ 6. BATTLE STATS (SIDE BY SIDE) -->
-  <h2>⚔️ BATTLE STATS ⚔️</h2>
-  
-  <table align="center">
-    <tr>
-      <td align="center">
-        <!-- Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=f4kesmile&theme=tokyonight&hide_border=true&fire=EB4C42&ring=EB4C42&currFire=EB4C42" alt="Streak" />
-      </td>
-      <td align="center">
-        <!-- Most Used Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4kesmile&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- 📊 7. DETAILED GITHUB STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=f4kesmile&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-</div>
-
----
-
-<!-- 🐍 8. THE FAMOUS SNAKE ANIMATION -->
 <div align="center">
   <h2>🐍 THE CONTRIB SNAKE 🐍</h2>
   <p>Watch the snake eat my contributions!</p>
