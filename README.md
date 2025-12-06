@@ -1,94 +1,92 @@
 <!--
-  � PROFILE ARCHITECTURE: NEON GENESIS
-  Style: No-Emoji, Cyberpunk, 3D, Animated
+  👾 MAXIMALIST DASHBOARD: ONLINE
+  Layout: Cockpit Grid
 -->
 
 <div align="center">
  
-  <!-- � HEADER UI BAR -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=F4KESMILE&fontSize=50&fontColor=ffffff&fontAlignY=50&desc=SYSTEM%20OVERRIDE%20INITIATED&descAlignY=75&descSize=15&animation=fadeIn" width="100%" alt="System Header" />
+  <!-- 🟢 MASTER CONTROL HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,240,255,189,0,255&height=280&section=header&text=SYSTEM::ROOT&fontSize=70&fontColor=ffffff&fontAlignY=30&desc=INITIATING%20VISUAL%20INTERFACE...&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="Master Header" />
 
-<br><br>
+  <br>
 
-  <!-- 🔄 SPINNING 3D REACTOR (The "Muter-Muter" Element) -->
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTh5Ynl5Ynl5Ynl5Ynl5Ynl5Ynl5Ynl5Ynl5Ynl5Ynl5Ynl5&rid=giphy.gif" alt="Core Reactor" width="200" />
-  
-  <br><br>
-
-  <!-- ⌨️ TERMINAL TYPING LOG -->
+  <!-- ⌨️ LIVE TERMINAL FEED -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Executing+protocol%3A+FULL_STACK_DEV.exe;Scanning+for+vulnerabilities...;Compiling+new+reality...;Access+Granted." alt="Terminal" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=User%3A+f4kesmile;Status%3A+ONLINE;Encryption%3A+ENABLED;Target%3A+WORLD_DOMINATION%3B" alt="Terminal Feed" />
   </a>
 
-<br><br>
+</div>
 
-  <!-- � SOCIAL LINKS (Clean Badges, No Emoji) -->
-  <p align="center">
-    <a href="https://github.com/f4kesmile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
-    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </p>
+<!-- 🎛️ COCKPIT DASHBOARD (Grid Layout) -->
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <!-- LEFT PANEL: PERSONAL -->
+    <td width="50%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=00F0FF&height=40&section=header&text=PILOT%20DATA&fontSize=20&fontColor=000000" width="100%" />
+      <br><br>
+      <img src="https://github.com/f4kesmile/f4kesmile/blob/main/metrics.personal.svg" width="100%" alt="Personal Data" />
+    </td>
+    
+    <!-- RIGHT PANEL: TECH -->
+    <td width="50%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=BD00FF&height=40&section=header&text=SYSTEM%20CORE&fontSize=20&fontColor=ffffff" width="100%" />
+      <br><br>
+      <img src="https://github.com/f4kesmile/f4kesmile/blob/main/metrics.tech.svg" width="100%" alt="Tech Data" />
+    </td>
+  </tr>
+</table>
 
+<br>
+
+<!-- 🔒 HIDDEN ACCESS (Interactive) -->
+<div align="center">
+  <details>
+    <summary><b>🔻 CLICK TO ACCESS RESTRICTED FILES 🔻</b></summary>
+    <br>
+    <img src="https://media.giphy.com/media/o0vzSQQP0inE1tVUJq/giphy.gif" width="100%" alt="Hacking" />
+    <p><i>Access Granted. Welcome to the mainframe.</i></p>
+    
+    <!-- 🧬 TECH STACK (Hidden until clicked) -->
+    <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cpp,java,html,css,react,nextjs,vue,svelte,nodejs,express,django,flask,springboot,postgres,mysql,redis,mongo,docker,k8s,aws,gcp,azure,linux,git&perline=15" />
+    
+  </details>
 </div>
 
 <br>
 
-<!-- 📊 SECTION 1: STATISTICS UNIT -->
+<!-- 🏙️ WIDE PANEL: TIME & ACHIEVEMENTS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F0FF&height=50&section=header&text=DATA%20VISUALIZATION&fontSize=30&fontColor=000000&animation=fadeIn" width="100%" alt="Stats Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=TIMELINE%20%26%20TROPHIES&fontSize=20&fontColor=ffffff" width="100%" />
   
   <br><br>
 
-  <!-- 🏙️ 3D CITY METRICS -->
-  <img src="https://github.com/f4kesmile/f4kesmile/blob/main/metrics.cyberpunk.svg" alt="3D Data City" width="100%" />
-
+  <img src="https://github.com/f4kesmile/f4kesmile/blob/main/metrics.bottom.svg" width="100%" alt="Bottom Data" />
 </div>
 
 <br>
 
-<!-- 🐍 SECTION 2: CONTRIBUTION STREAM -->
+<!-- 🐍 SNAKE STREAM -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=BD00FF&height=50&section=header&text=ACTIVITY%20STREAM&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Activity Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=20C20E&height=40&section=header&text=CONTRIBUTION%20WORM&fontSize=20&fontColor=000000" width="100%" />
   
-  <br><br>
-  
-  <!-- SNAKE ANIMATION -->
+  <br>
+
   <a href="https://github.com/f4kesmile/f4kesmile/actions/workflows/snake.yml">
-    <img src="https://github.com/f4kesmile/f4kesmile/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Stream" width="100%" />
+    <img src="https://github.com/f4kesmile/f4kesmile/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
   </a>
-
 </div>
 
 <br>
 
-<!-- 🧬 SECTION 3: TECHNOLOGY STACK -->
+<!-- 🌍 VISITOR MAP -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,35,0,255,142&height=50&section=header&text=TECH%20STACK&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Tech Header" />
-  
-  <br><br>
-
-  <!-- SKILL ICONS (Clean Grid) -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,cpp,java,html,css,react,nextjs,vue,svelte,nodejs,express,django,flask,springboot,postgres,mysql,redis,mongo,docker,k8s,aws,gcp,azure,linux,git,github,gitlab,vscode,vim,figma&perline=17" />
-
+  <h3>🌍 GLOBAL CONNECTIVITY</h3>
+  <img src="https://komarev.com/ghpvc/?username=f4kesmile&label=TOTAL+VISITORS&color=00F0FF&style=for-the-badge" />
 </div>
 
 <br>
 
-<!-- 🏆 SECTION 4: ACHIEVEMENTS -->
+<!-- 🌊 FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=20C20E&height=50&section=header&text=AWARDS&fontSize=30&fontColor=000000&animation=fadeIn" width="100%" alt="Awards Header" />
-  
-  <br><br>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=f4kesmile&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
-  </a>
-
-</div>
-
-<br><br>
-
-<!-- 🌊 FOOTER SYSTEM -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=TERMINATING%20SESSION...&fontSize=25&fontAlignY=40&animation=fadeIn" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,240,255,189,0,255&height=120&section=footer&text=SYSTEM%20OFFLINE&fontSize=25&fontAlignY=40&animation=fadeIn" width="100%" alt="Footer" />
 </div>
