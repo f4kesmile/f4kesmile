@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Pacman
-        uses: abozanona/pacman-contribution-graph@master
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: f4kesmile
+          github_user_name: f4kesmile
 
       - name: Prepare Output
         run: |
