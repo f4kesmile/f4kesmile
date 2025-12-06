@@ -27,7 +27,6 @@ jobs:
           config_display: large
 
           # Theme: Night Owl / Radical (Neon)
-          config_theme: nightowl
 
           # 3D Calendar (The "Cool" part)
           plugin_isocalendar: yes
