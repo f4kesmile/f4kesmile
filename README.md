@@ -77,44 +77,6 @@
 
 ---
 
-<!-- 🃏 11. WEEKLY STATS & JOKES -->
-<div align="center">
-  <h2>⚡ WEEKLY ENERGY ⚡</h2>
-
-  <!-- Wakatime (Placeholder - Needs Setup) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=f4kesmile&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime" />
-  
-  <br><br>
-
-  <!-- Random Joke -->
-  <h3>😂 Daily Giggle</h3>
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
-
-</div>
-
----
-
-<!-- 🌟 12. STARGAZERS & FORKERS -->
-<div align="center">
-  <h3>🌟 Stargazers</h3>
-  <img src="https://reporoster.com/stars/f4kesmile/f4kesmile" alt="Stargazers" />
-  
-  <h3>🔱 Forkers</h3>
-  <img src="https://reporoster.com/forks/f4kesmile/f4kesmile" alt="Forkers" />
-</div>
-
----
-
-<!-- 🎵 13. NOW PLAYING (Spotify Placeholder) -->
-<div align="center">
-  <h3>🎵 Vibe Check</h3>
-  <a href="https://spotify.com">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=7aa2f7" alt="Spotify" />
-  </a>
-</div>
-
-<br>
-
 <!-- 🌊 14. FOOTER WAVE -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&animation=fadeIn" width="100%" alt="Footer" />
