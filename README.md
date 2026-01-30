@@ -22,14 +22,14 @@
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/f4kesmile/f4kesmile/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" />
+      <img src="https://raw.githubusercontent.com/f4kesmile/f4kesmile/main/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" width="100%" alt="Profile Details" />
       <br><br>
-      <img src="https://raw.githubusercontent.com/f4kesmile/f4kesmile/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="General Stats" />
+      <img src="https://raw.githubusercontent.com/f4kesmile/f4kesmile/main/profile-summary-card-output/vision_friendly_dark/3-stats.svg" width="100%" alt="General Stats" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/f4kesmile/f4kesmile/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" alt="Languages" />
+      <img src="https://raw.githubusercontent.com/f4kesmile/f4kesmile/main/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg" width="100%" alt="Languages" />
       <br><br>
-      <img src="https://raw.githubusercontent.com/f4kesmile/f4kesmile/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="100%" alt="Productive Time" />
+      <img src="https://raw.githubusercontent.com/f4kesmile/f4kesmile/main/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg" width="100%" alt="Productive Time" />
     </td>
   </tr>
 </table>
@@ -85,7 +85,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/METRICS-3D_Activity-black?style=for-the-badge&logo=blender&logoColor=white" />
-  <p align="center"></p>
+  <p align="center"><i>*Gambar ini akan muncul otomatis 5 menit setelah Commit.*</i></p>
   
   <a href="https://github.com/lowlighter/metrics">
     <img src="https://github.com/f4kesmile/f4kesmile/blob/main/github-metrics.svg?raw=true" alt="3D Metrics" width="100%" />
