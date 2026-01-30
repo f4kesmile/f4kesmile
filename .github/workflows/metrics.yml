@@ -1,10 +1,8 @@
-name: Masterpiece Metrics
+name: 3D Metrics
 on:
-  # Schedule daily updates
-  schedule: [{ cron: "0 0 * * *" }]
-  # (optional) Run workflow manually
+  # Update setiap jam 00:00 WIB
+  schedule: [{ cron: "0 17 * * *" }]
   workflow_dispatch:
-  # (optional) Run on each push on the master branch
   push: { branches: ["master", "main"] }
 
 jobs:
@@ -13,46 +11,33 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: 🛰️ Generate Masterpiece
+      - name: 📅 Generate 3D Isometric Map
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Options
+          # --- KONFIGURASI ---
           user: f4kesmile
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: "" # Kosongkan base agar fokus ke plugin 3D
           config_timezone: Asia/Jakarta
           config_display: large
-          config_padding: 0, 5%
-
-          # 1. 3D Calendar (The "Cool" part)
+          config_padding: 0, 10%
+          
+          # --- PLUGINS ---
+          
+          # 1. ISOMETRIC CALENDAR (Fitur Utama 3D)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          # 2. Achievements (Badges)
+          
+          # 2. ACHIEVEMENTS (Badge Prestasi)
           plugin_achievements: yes
           plugin_achievements_display: compact
-
-          # 3. Habits (Charts)
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          # 4. Languages (Detailed)
+          plugin_achievements_threshold: B
+          
+          # 3. LANGUAGES (Analisis Bahasa)
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          plugin_languages_details: percentage
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
-
-          # 5. Lines of Code
-          plugin_lines: yes
-
-          # 6. Stargazers (World Map)
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: classic
