@@ -85,7 +85,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/METRICS-3D_Activity-black?style=for-the-badge&logo=blender&logoColor=white" />
-  <p align="center"><i>*Gambar ini akan muncul otomatis 5 menit setelah Commit.*</i></p>
   
   <a href="https://github.com/lowlighter/metrics">
     <img src="https://github.com/f4kesmile/f4kesmile/blob/main/github-metrics.svg?raw=true" alt="3D Metrics" width="100%" />
