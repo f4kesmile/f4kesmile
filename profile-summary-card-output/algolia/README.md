@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/f4kesmile/f4kesmile/main/profile-summary-card-output/algolia/4-productive-time.svg)
+```
+
+    

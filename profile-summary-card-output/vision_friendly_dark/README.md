@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/f4kesmile/f4kesmile/main/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
+```
+
+    
